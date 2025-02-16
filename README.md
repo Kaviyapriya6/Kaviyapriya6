@@ -1,4 +1,4 @@
-# Hey 👋   , I'm [Kaviya Priya S](https://kaviyapriya.me/)
+# Hey    , I'm [Kaviya Priya S](https://kaviyapriya.me/)
 
 # 💫 About Me:
 🔭 I’m currently working on something cool 😉<br>🌱 I’m currently learning Flutter, Go, and expanding my expertise in Data Science.<br>💬 Ask me about anything related to Python, JavaScript, React, or Data Science!<br>👨‍💻 Read more about my projects at kaviyapriya.me<br>⚡ Fun fact: I ❤️ sports and have won several awards in long jump and basketball!
